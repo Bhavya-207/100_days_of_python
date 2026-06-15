@@ -1,0 +1,5 @@
+print("Day 1 project")
+cityname=input("Which city did you grew up in?")
+petname=input("What is your pet name?")
+print("Your band name is:\n")
+print(cityname+petname)
